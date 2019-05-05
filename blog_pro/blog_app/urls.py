@@ -1,5 +1,5 @@
 from django.conf.urls import url
-from blog_app import views
+from . import views
 
 
 
